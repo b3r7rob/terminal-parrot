@@ -66,7 +66,7 @@ You can limit your parrots enthusiasm with the `-loops` flag.
 
 ### :fastparrot:
 
-Set the frame delay with the `-delay` flag (defaults to 75, use 25 for :fastparrot:)
+Set the frame delay with the `-delay` flag (defaults to 75, use 250 for :fastparrot:)
 
 ### :aussieparrot:
 
